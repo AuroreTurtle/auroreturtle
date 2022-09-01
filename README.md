@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aurore</h1>
 <h3 align="center">A front-end development student at OpenClassrooms from France</h3>
 
-- 🌱 I’m currently learning **JS**
+- 🌱 I’m currently learning **JS and React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AuroreTurtle](https://github.com/AuroreTurtle)
 
