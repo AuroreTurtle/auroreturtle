@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AuroreTurtle](https://github.com/AuroreTurtle)
 
-- 📄 Know about my experiences [https://portfolio-auroreturtle.vercel.app/](https://portfolio-auroreturtle.vercel.app/)
+- 📄 Know about my experiences [https://aurore-gourraud.vercel.app/](https://aurore-gourraud.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
