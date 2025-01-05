@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aurore</h1>
 <h3 align="center">A front-end developer in France</h3>
 
-- 🌱 I’m currently learning **JS, React and Next.js**
+- 🌱 I’m currently working with **JS, React and Next.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AuroreTurtle](https://github.com/AuroreTurtle)
 
-- 📄 Know about my experiences [https://aurore-gourraud.vercel.app/](https://aurore-gourraud.vercel.app/)
+- 📄 Know about my experiences [https://www.aurore-gourraud.fr/](https://www.aurore-gourraud.fr/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
